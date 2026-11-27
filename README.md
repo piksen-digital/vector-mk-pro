@@ -1,4 +1,4 @@
-# VectorForge Pro — End-User Implementation Manual
+# Vecto-MK Pro — End-User Implementation Manual
 
 Thank you for choosing VectorForge Pro! Below is the official guide to running, configuring, and embedding this elite engineering application in your production workflows.
 
