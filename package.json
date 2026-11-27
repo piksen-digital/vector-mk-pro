@@ -1,0 +1,16 @@
+{
+  "name": "vecto-mk-pro",
+  "version": "1.0.0",
+  "description": "Enterprise-grade SVG path editing, structural node manipulation, and hyper-precision vector minification engine.",
+  "main": "src/index.html",
+  "scripts": {
+    "dev": "vite src --port 3000 --open",
+    "build": "vite build --outDir dist"
+  },
+  "keywords": ["svg-optimizer", "vector-editor", "path-manipulator", "codecanyon", "vecto-mk"],
+  "author": "Premium Envato Author",
+  "license": "Envato Market Commercial License",
+  "devDependencies": {
+    "vite": "^5.0.0"
+  }
+}
